@@ -1755,14 +1755,14 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 75px;
-			height: 42px;
+			width: 125px;
+			height: auto;
 			background: #f00;
 		}
 
 			.image.avatar48 img {
-				width: 75px;
-				height: 42px;
+				width: 125px;
+				height: auto;
 			}
 
 		.image.fit {
