@@ -1803,6 +1803,17 @@ input, select, textarea {
 				width: auto;
 			}
 
+#hero-Logo {
+    text-align: center;
+    margin: 0 auto 2em auto;
+}
+
+#hero-Logo img {
+    width: 275px;
+    max-width: 40vw;
+    height: auto;
+}
+
 /* List */
 
 	ul {
