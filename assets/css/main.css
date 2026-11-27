@@ -2628,7 +2628,20 @@ input, select, textarea {
 
 		/* Main */
 
-			#main > section {
+			#hero-Logo {
+	   			text-align: center;
+				 margin-bottom: 2em;
+			}
+
+	.heroLogo img {
+	    width: 80%;
+	    max-width: 300px;
+	    height: auto;
+	    display: block;
+	    margin: 0 auto;
+	}	
+		
+		#main > section {
 				padding: 2em 0;
 			}
 
