@@ -1766,14 +1766,14 @@ input, select, textarea {
 			}
 
 		.image.heroLogo {
-		  width: 150px;
+		  width: 275px;
   		  height: auto;
  		  background: transparent;
 		  margin: 0 auto 30px auto;	
 		}
 
 			.image.heroLogo img {
-  			  width: 150px;
+  			  width: 275px;
 			  height: auto;
 			}
 
