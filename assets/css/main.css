@@ -2625,12 +2625,23 @@ input, select, textarea {
 				width: 2em;
 				font-size: 1.25em;
 			}
-		
+					
+			#logo {
+			    text-align: right;
+			    min-height: auto;
+			}
+			
 			#logo .image {
-   			    position: relative;
-  				display: block;
-  				margin: 0 auto 0.75em auto;
-			 }
+			    position: relative;
+			    display: block;
+			    margin: 0 0 0.5em auto;
+			    width: fit-content;
+			}
+			
+			#logo h1,
+			#logo p {
+			    text-align: right;
+			}
 
 		/* Main */
 
