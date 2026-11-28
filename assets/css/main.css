@@ -2625,6 +2625,12 @@ input, select, textarea {
 				width: 2em;
 				font-size: 1.25em;
 			}
+		
+			#logo .image {
+   			    position: relative;
+  				display: block;
+  				margin: 0 auto 0.75em auto;
+			 }
 
 		/* Main */
 
